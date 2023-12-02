@@ -4,6 +4,9 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Company>Centennial College - DevOps</Company>
+    <Authors>Sami Sekucoglu</Authors>
+    <Copyright>2023 Sami Sekucoglu</Copyright>
   </PropertyGroup>
 
 </Project>
